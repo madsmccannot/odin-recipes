@@ -1,1 +1,2 @@
 # odin-recipes
+This project will be made within a few hours since the objective is purell to practice HTML knowledge by crearing a basic website with a main index page which will have links to a recipes.
